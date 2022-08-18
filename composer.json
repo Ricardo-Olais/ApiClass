@@ -1,0 +1,19 @@
+{
+    "name": "olais/admin",
+    "description": "Administrar crud",
+    "type": "metapackage",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Olais\\Admin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ricardo Olais",
+            "email": "r.hernandez@lidcorp.mx"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

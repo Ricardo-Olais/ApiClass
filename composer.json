@@ -1,7 +1,7 @@
 {
     "name": "olais/admin",
     "description": "Administrar crud",
-    "type": "metapackage",
+    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
